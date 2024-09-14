@@ -1,0 +1,28 @@
+td {
+    border: 1px solid black;
+    padding: 40px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: aqua;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.middle {
+    background-color: brown;
+    color: white;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: center;
+}
